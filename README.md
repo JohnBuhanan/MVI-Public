@@ -1,4 +1,4 @@
-# Experimenting with making an MVI-Compose framework
+# Experimenting with making an MVI-Compose architecture
 
 * Compose
 * ViewModels
